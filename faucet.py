@@ -15,7 +15,7 @@ import os
 import binascii
 
 ADDRESS = os.environ.get("FAUCET_ADDR")
-TWELVEPROBLEMS = "TRTLv1r4dFzJzRCkJNDE6d9nU91RDmZdNSvaGG8BZq4AAWJZGH3Ktxd1ZXfKNtc3LY6PDWuVs3J1H4rzd5RDjLge43VuBGUs7aR"
+TWELVEPROBLEMS = "Rhodd9ruYzfET3VrUtsEBcKApUwG5obGXEnv7C72as6kLnKv1WtFowV6BtyM5GYiyZDoSH9z9QrvN66nqWPFTVF1743xbZLTjL"
 RPC_URL = "http://127.0.0.1:8004/json_rpc"
 RPC_PASS = os.environ.get("RPC_PASS")
 HEADERS = {'content-type': 'application/json'}
